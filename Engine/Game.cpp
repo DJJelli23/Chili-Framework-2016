@@ -43,4 +43,15 @@ void Game::UpdateModel()
 void Game::ComposeFrame()
 {
 	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
 }
