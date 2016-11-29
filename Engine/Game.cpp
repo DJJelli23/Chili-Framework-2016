@@ -42,16 +42,17 @@ void Game::UpdateModel()
 
 void Game::ComposeFrame()
 {
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
-	gfx.PutPixel(700, 500, /*RGB --->*/ 255, 255, 255);
+	int x;
+	//gfx.PutPixel(695, 500, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(696, 500, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(697, 500, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(703, 500, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(704, 500, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(700, 495, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(700, 496, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(700, 497, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(700, 503, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(700, 504, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(700, 505, /*RGB --->*/ 255, 255, 255);
+	//gfx.PutPixel(700, 506, /*RGB --->*/ 255, 255, 255);
 }
